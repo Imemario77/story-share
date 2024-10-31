@@ -61,5 +61,14 @@
     "content": "i love the story ",
     "likes": 0,
     "createdAt": "2024-10-31T08:36:21.490Z"
+  },
+  {
+    "id": 8,
+    "novelId": 9,
+    "author": "Baby",
+    "authorId": "anonymous",
+    "content": "oka",
+    "likes": 0,
+    "createdAt": "2024-10-31T08:38:13.744Z"
   }
 ]
