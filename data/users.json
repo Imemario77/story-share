@@ -1,16 +1,16 @@
 [
   {
     "id": "user1",
-    "username": "Mario",
+    "username": "mario",
     "email": "imemario77@gmail.com",
     "password": "qwerty12345",
-    "createdAt": "2024-10-31T07:57:37.082Z"
+    "createdAt": "2024-10-31T10:07:48.895Z"
   },
   {
     "id": "user2",
-    "username": "Baby",
+    "username": "mary",
     "email": "Samuelsamadejumo@gmail.com",
     "password": "Samuelsamadejumo@gmail.com",
-    "createdAt": "2024-10-31T08:35:01.106Z"
+    "createdAt": "2024-10-31T10:15:55.137Z"
   }
 ]

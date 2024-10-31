@@ -6,69 +6,15 @@
     "authorId": "user3",
     "content": "This story gave me chills! Can't wait to read more.",
     "likes": 12,
-    "createdAt": "2024-10-31T07:13:59.223Z"
+    "createdAt": "2024-10-31T08:41:10.714Z"
   },
   {
     "id": 2,
-    "novelId": 8,
-    "author": "Mario",
-    "authorId": "anonymous",
-    "content": "heyeoe",
-    "likes": 0,
-    "createdAt": "2024-10-31T08:34:10.847Z"
-  },
-  {
-    "id": 3,
-    "novelId": 8,
-    "author": "Mario",
-    "authorId": "anonymous",
-    "content": "nice one bro ",
-    "likes": 0,
-    "createdAt": "2024-10-31T08:34:23.427Z"
-  },
-  {
-    "id": 4,
-    "novelId": 1,
-    "author": "Mario",
-    "authorId": "anonymous",
-    "content": "okay you gat me ",
-    "likes": 0,
-    "createdAt": "2024-10-31T08:34:35.547Z"
-  },
-  {
-    "id": 5,
     "novelId": 2,
-    "author": "Mario",
+    "author": "mary",
     "authorId": "anonymous",
-    "content": "hello there",
+    "content": "this is nice",
     "likes": 0,
-    "createdAt": "2024-10-31T08:34:44.722Z"
-  },
-  {
-    "id": 6,
-    "novelId": 8,
-    "author": "Baby",
-    "authorId": "anonymous",
-    "content": "bro",
-    "likes": 0,
-    "createdAt": "2024-10-31T08:35:09.903Z"
-  },
-  {
-    "id": 7,
-    "novelId": 9,
-    "author": "Mario",
-    "authorId": "anonymous",
-    "content": "i love the story ",
-    "likes": 0,
-    "createdAt": "2024-10-31T08:36:21.490Z"
-  },
-  {
-    "id": 8,
-    "novelId": 9,
-    "author": "Baby",
-    "authorId": "anonymous",
-    "content": "oka",
-    "likes": 0,
-    "createdAt": "2024-10-31T08:38:13.744Z"
+    "createdAt": "2024-10-31T10:16:06.777Z"
   }
 ]
